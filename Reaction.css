@@ -1,0 +1,12 @@
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+}
+
+.center-text {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 18px;
+}
